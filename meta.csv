@@ -1,6 +1,6 @@
-Sheet,Variable,Description,"Note: Cardinal directions refer to the diagram, not the actual geography. "
-Door Locations,Car,"Railcar number, from 1-8",
-"Door Locations, Egresses",x,"Location along the platform. Decimal between 2 and 71, with increments of 0.5. The platform extends from 0.5 to 72.5.",
+File,Variable,Description,"Note: Cardinal directions refer to the diagram, not the actual geography. "
+Doors,Car,"Railcar number, from 1-8",
+"Doors, Egresses",x,"Location along the platform. Decimal between 2 and 71, with increments of 0.5. The platform extends from 0.5 to 72.5.",
 "Stations, Exits, Egresses",nameStd,Station name,
 Stations,nameAlt,Alt station name (WMATA is very inconsistent so maybe this is useful),
 Stations,subtitile,Station subtitle,

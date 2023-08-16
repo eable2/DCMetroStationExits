@@ -9,3 +9,5 @@ Stations.csv has info about each station
 Egresses.csv has info about each egress (i.e. icon, in my diagrams)
 
 Let me know if you have ideas on how to improve the dataset!
+
+Note: I am not associated with WMATA.

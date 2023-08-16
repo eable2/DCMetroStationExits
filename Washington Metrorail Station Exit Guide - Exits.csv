@@ -1,0 +1,72 @@
+nameStd,exitLabel,description
+Anacostia,1,Parking Garage
+Anacostia,2,Howard Rd
+Dupont Circle,1,Q St
+Dupont Circle,2,Dupont Circle
+Farragut North,1,North Side L St
+Farragut North,2,South Side L St
+Farragut North,3,K St
+Farragut West,1,18th & I
+Farragut West,2,17th & I
+Friendship Heights,1,Western Ave
+Friendship Heights,2,Jenifer St
+Gallery Place (Lower Level),1,"RD Trains to Shady Grove, 7th & H, 9th & G"
+Gallery Place (Lower Level),2,"RD Trains to Glenmont, 7th & H, 9th & G"
+Gallery Place (Lower Level),3,7th & F
+Gallery Place (Lower Level),4,Elevator to Platform Only
+Gallery Place (Lower Level),5,Elevator to Platform & Street
+Gallery Place (Upper Level),1,9th & G
+Gallery Place (Upper Level),2,"All GR/YL Trains, 7th & F, 7th & H, Elevator to Platform Only"
+Gallery Place (Upper Level),3,"All GR/YL Trains, 7th & F, 7th & H, Elevator to Platform & Street"
+Huntington,1,Huntington Ave
+Huntington,2,Kings Highway
+Judiciary Square,1,F St
+Judiciary Square,2,4th St
+King Street-Old Town,1,Commonwealth Ave
+King Street-Old Town,2,King St
+King Street-Old Town,3,Buses
+L’Enfant Plaza (Lower Level),1,Elevator to All Destinations
+L’Enfant Plaza (Lower Level),2,"GR/YL Trains to Branch Ave/Huntington, 7th & Maryland Ave"
+L’Enfant Plaza (Lower Level),3,"GR/YL Trains to Greenbelt/Mt Vernon Sq, 7th & Maryland Ave"
+L’Enfant Plaza (Lower Level),4,7th & D
+L’Enfant Plaza (Lower Level),5,9th & D
+L’Enfant Plaza (Upper Level),1,Opposite Platform & Street
+L’Enfant Plaza (Upper Level),2,Opposite Platform
+L’Enfant Plaza (Upper Level),3,7th & Maryland Ave
+L’Enfant Plaza (Upper Level),4,"All BL/OR/SV Trains, 7th & D, No Elevator"
+L’Enfant Plaza (Upper Level),5,"All BL/OR/SV Trains, 9th & D, Elevator to Platform Only"
+McPherson Square,1,Vermont Ave
+McPherson Square,2,14th & I
+Metro Center (Lower Level),1,"RD Trains to Shady Grove, 11th & G, 13th & G"
+Metro Center (Lower Level),2,"RD Trains to Glenmont, 11th & G, 13th & G"
+Metro Center (Lower Level),3,Elevator to Platform & Street
+Metro Center (Lower Level),4,Elevator to Platform Only
+Metro Center (Lower Level),5,12th & G
+Metro Center (Lower Level),6,12th & F
+Metro Center (Upper Level),1,13th & G
+Metro Center (Upper Level),2,11th & G
+Metro Center (Upper Level),3,"BL/OR/SV Trains, 12th & G, Elevator to Platform & Street"
+Metro Center (Upper Level),4,"BL/OR/SV Trains, 12th & F, Elevator to Platform Only"
+Navy Yard-Ballpark,1,Ballpark & Soccer Stadium
+Navy Yard-Ballpark,2,USDOT
+NoMa-Gallaudet U,1,M St
+NoMa-Gallaudet U,2,Florida Ave
+Pentagon,1,Elevator to Platform Only
+Pentagon,2,"Path to Station Exit, Escalators to Platform Only"
+Rosslyn,1,"Path to Station Exit, Escalators & Elevator to Platform Only"
+Shaw-Howard U,1,Howard University
+Shaw-Howard U,2,8th & R
+Silver Spring,1,South Side Colesville Rd
+Silver Spring,2,North Side Colesville Rd
+Smithsonian,1,12th & Jefferson
+Smithsonian,2,12th & Independence
+Stadium-Armory,1,C St
+Stadium-Armory,2,"Stadium, Armory"
+U St,1,13th & U
+U St,2,10th & U
+Union Station,1,"Mass Ave, Shops, Postal Museum"
+Union Station,2,"1st St, Amtrak, Commuter Trains"
+Wheaton,1,Path to Escalator
+Wheaton,2,Path to Escalator & Elevator
+Washington National Airport,1,"Terminal 2, C/D/E Gates"
+Washington National Airport,2,"Terminals 1 & 2, A/B/C Gates"

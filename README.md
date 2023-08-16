@@ -1,6 +1,6 @@
 # DCMetroStationExits
 
-These data contain the information I used to create [these diagrams](https://www.reddit.com/r/washingtondc/comments/15mbos4/i_mapped_the_layouts_of_all_98_metro_stations_so/) which map the layouts of all 98 Metro stations so you know where to exit the train.
+These data contain the information I used to create [these diagrams](https://www.reddit.com/r/washingtondc/comments/15mbos4/i_mapped_the_layouts_of_all_98_metro_stations_so/), which map the layouts of DC Metro stations and their exits.
 
 * Meta.csv has info on what the variables mean.
 

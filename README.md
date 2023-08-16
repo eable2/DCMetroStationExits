@@ -8,9 +8,9 @@ These data contain the information I used to create [these diagrams](https://www
 
 * Exits.csv has the text of exits for stations with multiple.
 
-* Stations.csv has info about each station
+* Stations.csv has info about each station.
 
-* Egresses.csv has info about each egress (i.e. icon, in my diagrams)
+* Egresses.csv has info about each egress (i.e. icon, in my diagrams).
 
 Let me know if you have ideas on how to improve the dataset!
 

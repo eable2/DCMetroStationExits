@@ -1,4 +1,4 @@
-# DCMetroStationExits
+# DC Metro Station Exits
 
 These data contain the information I used to create [these diagrams](https://www.reddit.com/r/washingtondc/comments/15mbos4/i_mapped_the_layouts_of_all_98_metro_stations_so/), which map the layouts of DC Metro stations and their exits.
 

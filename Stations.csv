@@ -95,8 +95,8 @@ Van Ness-UDC,,,TRUE,,,,,,Island,Shady Grove,Glenmont,nw
 Vienna,,Fairfax-GMU,,,,,TRUE,,Terminus WB,Vienna,Vienna,n
 Virginia Square-GMU,,,,,,,TRUE,TRUE,Side,Ashburn/Vienna,Largo/New Carrollton,ne
 Washington National Airport,Ronald Reagan Washington National Airport,,,,TRUE,TRUE,,,Gap Island,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,w
-Waterfront,,VT,,TRUE,,,,,Island,Greenbelt,Branch Ave,n
-West Falls Church,,,,,,,TRUE,,Gap Island,Vienna,New Carrollton,n
+Waterfront,,,,TRUE,,,,,Island,Greenbelt,Branch Ave,n
+West Falls Church,,VT,,,,,TRUE,,Gap Island,Vienna,New Carrollton,n
 West Hyattsville,,,,TRUE,,,,,Side,Greenbelt,Branch Ave,w
 Wheaton,,,TRUE,,,,,,Gap Island,Shady Grove,Glenmont,e
 Wiehle-Reston East,,,,,,,,TRUE,Island,Ashburn,Largo,n

@@ -1,18 +1,18 @@
 nameStd,nameAlt,subtitile,hasRD,hasGR,hasYL,hasBL,hasOR,hasSV,platformType,WBDir,EBDir,compassN
-Addison Road,Addison Rd,Seat Pleasant,,,,TRUE,,TRUE,Island,Ashburn/Franconia-Springfield,Largo,n
+Addison Road,Addison Rd,Seat Pleasant,,,TRUE,,TRUE,Island,Ashburn/Franconia-Springfield,Largo,n
 Anacostia,,,,TRUE,,,,,Island,Greenbelt,Branch Ave,w
-Archives,,Navy Mem'l-Penn Quarter,,TRUE,TRUE,,,,Island,Greenbelt/Mt Vernon Sq,Branch Ave/Huntington,w
+Archives,,Navy Mem'l-Penn Quarter,TRUE,TRUE,,,,Island,Greenbelt/Mt Vernon Sq,Branch Ave/Huntington,w
 Arlington Cemetery,,,,,,TRUE,,,Side,Franconia-Springfield,Largo,se
 Ashburn,,,,,,,,TRUE,Terminus WB,Ashburn,Ashburn,nw
 Ballston-MU,,,,,,,TRUE,TRUE,Side,Ashburn/Vienna,Largo/New Carrollton,n
-Benning Road,Benning Rd,,,,,TRUE,,TRUE,Island,Ashburn/Franconia-Springfield,Largo,nw
+Benning Road,Benning Rd,,,,TRUE,,TRUE,Island,Ashburn/Franconia-Springfield,Largo,nw
 Bethesda,,,TRUE,,,,,,Island,Shady Grove,Glenmont,w
-Braddock Road,Braddock Rd,,,,TRUE,TRUE,,,Island,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,sw
-Branch Avenue,Branch Ave,,,TRUE,,,,,Terminus EB,Branch Ave,Branch Ave,nw
+Braddock Road,Braddock Rd,,,TRUE,TRUE,,,Island,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,sw
+Branch Avenue,Branch Ave,,TRUE,,,,,Terminus EB,Branch Ave,Branch Ave,nw
 Brookland-CUA,,,TRUE,,,,,,Island,Shady Grove,Glenmont,e
 Capitol Heights,,,,,,TRUE,,TRUE,Island,Ashburn/Franconia-Springfield,Largo,n
 Capitol South,,,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
-Cheverly,,,,,,,TRUE,,Side,Vienna,New Carrollton,ne
+Cheverly,,,,,,,TRUE,TRUE,Side,Ashburn/Vienna,New Carrollton,ne
 Clarendon,,,,,,,TRUE,TRUE,Side,Ashburn/Vienna,Largo/New Carrollton,ne
 Cleveland Park,,,TRUE,,,,,,Island,Shady Grove,Glenmont,nw
 College Park-U of Md,,,,TRUE,,,,,Island,Greenbelt,Branch Ave,sw
@@ -20,19 +20,18 @@ Columbia Heights,,,,TRUE,,,,,Island,Greenbelt,Branch Ave,w
 Congress Heights,,,,TRUE,,,,,Island,Greenbelt,Branch Ave,nw
 Court House,,,,,,,TRUE,TRUE,Island,Ashburn/Vienna,Largo/New Carrollton,n
 Crystal City,,,,,TRUE,TRUE,,,Side,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,n
-Deanwood,,,,,,,TRUE,,Island,Vienna,New Carrollton,ne
+Deanwood,,,,,,,TRUE,TRUE,Island,Ashburn/Vienna,New Carrollton,ne
 Downtown Largo,Largo,,,,,TRUE,,TRUE,Terminus EB,Largo,Largo,ne
-Dulles International Airport,Washington Dulles International Airport,,,,,,,TRUE,Island,Ashburn,Largo,n
 Dunn Loring,,Merrifield,,,,,TRUE,,Island,Vienna,New Carrollton,n
 Dupont Circle,,,TRUE,,,,,,Side,Shady Grove,Glenmont,nw
-East Falls Church,,,,,,,TRUE,TRUE,Island,Ashburn/Vienna,Largo/New Carrollton,n
+East Falls Church,,,,,,,TRUE,TRUE,Island,Ashburn/Vienna,Largo/New Carrollton,nw
 Eastern Market,,,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,nw
-Eisenhower Avenue,Eisenhower Ave,,,,TRUE,,,,Side,Huntington,Mt Vernon Sq,sw
+Eisenhower Avenue,Eisenhower Ave,,,TRUE,,,,Side,Huntington,Mt Vernon Sq,sw
 Farragut North,,,TRUE,,,,,,Island,Shady Grove,Glenmont,nw
 Farragut West,,,,,,TRUE,TRUE,TRUE,Side,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
 Federal Center SW,,,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
 Federal Triangle,,,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,w
-Foggy Bottom-GWU,,Kennedy Center,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
+Foggy Bottom-GWU,,Kennedy Center,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
 Forest Glen,,,TRUE,,,,,,Gap Island,Shady Grove,Glenmont,e
 Fort Totten (Lower Level),,,,TRUE,,,,,Island,Greenbelt,Branch Ave,s
 Fort Totten (Upper Level),,,TRUE,,,,,,Island,Shady Grove,Glenmont,e
@@ -40,39 +39,39 @@ Franconia-Springfield,,,,,,TRUE,,,Terminus WB,Franconia-Springfield,Franconia-Sp
 Friendship Heights,,,TRUE,,,,,,Island,Shady Grove,Glenmont,nw
 Gallery Place (Lower Level),Gallery Pl,Chinatown,,TRUE,TRUE,,,,Island,Greenbelt/Mt Vernon Sq,Branch Ave/Huntington,w
 Gallery Place (Upper Level),Gallery Pl,Chinatown,TRUE,,,,,,Side,Shady Grove,Glenmont,n
-Georgia Avenue-Petworth,Georgia Ave-Petworth,,,TRUE,,,,,Island,Greenbelt,Branch Ave,sw
-Glenmont,,,TRUE,,,,,,Terminus EB,Glenmont,Glenmont,se
+Georgia Avenue-Petworth,Georgia Ave-Petworth,,TRUE,,,,,Island,Greenbelt,Branch Ave,sw
+Glenmont,,,TRUE,,,,,,Terminus EB,Glenmont,Glenmont,e
 Greenbelt,,,,TRUE,,,,,Terminus EB,Greenbelt,Greenbelt,ne
-Greensboro,,,,,,,,TRUE,Island,Ashburn,Largo,nw
+Greensboro,,,,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,nw
 Grosvenor-Strathmore,,,TRUE,,,,,,Island,Shady Grove,Glenmont,w
-Herndon,,,,,,,,TRUE,Island,Ashburn,Largo,n
+Herndon,,,,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,n
 Huntington,,,,,TRUE,,,,Terminus EB,Huntington,Huntington,w
 Hyattsville Crossing,,,,TRUE,,,,,Side,Greenbelt,Branch Ave,s
-Innovation Center,,,,,,,,TRUE,Island,Ashburn,Largo,n
+Innovation Center,,,,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,n
 Judiciary Square,,,TRUE,,,,,,Side,Shady Grove,Glenmont,nw
-King Street-Old Town,King St-Old Town,,,,TRUE,TRUE,,,Island,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,sw
-L'Enfant Plaza (Lower Level),,,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
-L'Enfant Plaza (Upper Level),,,,TRUE,TRUE,,,,Side,Greenbelt/Mt Vernon Sq,Branch Ave/Huntington,w
-Landover,,,,,,,TRUE,,Island,Vienna,New Carrollton,ne
-Loudoun Gateway,,,,,,,,TRUE,Island,Ashburn,Largo,nw
-McLean,,,,,,,,TRUE,Island,Ashburn,Largo,ne
-McPherson Square,McPherson Sq,,,,,TRUE,TRUE,TRUE,Side,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
+King Street-Old Town,King St-Old Town,,,TRUE,TRUE,,,Island,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,sw
+L'Enfant Plaza (Lower Level),,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
+L'Enfant Plaza (Upper Level),,,TRUE,TRUE,,,,Side,Greenbelt/Mt Vernon Sq,Branch Ave/Huntington,w
+Landover,,,,,,,TRUE,TRUE,Island,Ashburn/Vienna,New Carrollton,ne
+Loudoun Gateway,,,,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,nw
+McLean,,,,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,ne
+McPherson Square,McPherson Sq,,,,TRUE,TRUE,TRUE,Side,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
 Medical Center,,,TRUE,,,,,,Island,Shady Grove,Glenmont,w
 Metro Center (Lower Level),,,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,w
 Metro Center (Upper Level),,,TRUE,,,,,,Side,Shady Grove,Glenmont,n
-Minnesota Avenue,Minnesota Ave,,,,,,TRUE,,Island,Vienna,New Carrollton,ne
-Morgan Boulevard,Morgan Blvd,,,,,TRUE,,TRUE,Island,Ashburn/Franconia-Springfield,Largo,n
-Mount Vernon Square,Mt Vernon Sq,7th St-Convention Center,,TRUE,TRUE,,,,Island,Greenbelt/Mt Vernon Sq,Branch Ave,w
+Minnesota Avenue,Minnesota Ave,,,,,TRUE,TRUE,Island,Ashburn/Vienna,New Carrollton,ne
+Morgan Boulevard,Morgan Blvd,,,,TRUE,,TRUE,Island,Ashburn/Franconia-Springfield,Largo,n
+Mount Vernon Square,Mt Vernon Sq,7th St-Convention Center,TRUE,TRUE,,,,Island,Greenbelt/Mt Vernon Sq,Branch Ave,w
 Navy Yard-Ballpark,,,,TRUE,,,,,Island,Greenbelt,Branch Ave,n
 Naylor Road,Naylor Rd,,,TRUE,,,,,Island,Greenbelt,Branch Ave,n
-New Carrollton,,,,,,,TRUE,,Terminus EB,New Carrollton,New Carrollton,ne
+New Carrollton,,,,,,,TRUE,TRUE,Terminus EB,New Carrollton,New Carrollton,ne
 NoMa-Gallaudet U,,,TRUE,,,,,,Island,Shady Grove,Glenmont,e
 North Bethesda,,,TRUE,,,,,,Island,Shady Grove,Glenmont,w
 Pentagon,,,,,TRUE,TRUE,,,Gap Island,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,sw
 Pentagon City,,,,,TRUE,TRUE,,,Side,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,w
-Potomac Avenue,Potomac Ave,,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
+Potomac Avenue,Potomac Ave,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,n
 Potomac Yard,,VT,,,TRUE,TRUE,,,Side,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,w
-Reston Town Center,,,,,,,,TRUE,Island,Ashburn,Largo,n
+Reston Town Center,,,,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,n
 Rhode Island Avenue,Rhode Island Ave,Brentwood,TRUE,,,,,,Island,Shady Grove,Glenmont,e
 Rockville,,,TRUE,,,,,,Island,Shady Grove,Glenmont,nw
 Rosslyn,,,,,,TRUE,TRUE,TRUE,Gap Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,e
@@ -80,24 +79,25 @@ Shady Grove,,,TRUE,,,,,,Terminus WB,Shady Grove,Shady Grove,nw
 Shaw-Howard U,,,,TRUE,,,,,Island,Greenbelt,Branch Ave,w
 Silver Spring,,,TRUE,,,,,,Island,Shady Grove,Glenmont,se
 Smithsonian,,National Mall,,,,TRUE,TRUE,TRUE,Side,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,w
-Southern Avenue,Southern Ave,,,TRUE,,,,,Island,Greenbelt,Branch Ave,ne
-Spring Hill,,,,,,,,TRUE,Island,Ashburn,Largo,nw
+Southern Avenue,Southern Ave,,TRUE,,,,,Island,Greenbelt,Branch Ave,ne
+Spring Hill,,,,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,nw
 Stadium-Armory,,,,,,TRUE,TRUE,TRUE,Island,Ashburn/Franconia-Springfield/Vienna,Largo/New Carrollton,e
 Suitland,,,,TRUE,,,,,Island,Greenbelt,Branch Ave,nw
 Takoma,,,TRUE,,,,,,Island,Shady Grove,Glenmont,se
 Tenleytown-AU,,,TRUE,,,,,,Island,Shady Grove,Glenmont,nw
 Twinbrook,,,TRUE,,,,,,Island,Shady Grove,Glenmont,nw
-Tysons,,,,,,,,TRUE,Island,Ashburn,Largo,n
-U Street,U St,African-Amer Civil War Mem'l/Cardozo,,TRUE,,,,,Island,Greenbelt,Branch Ave,n
+Tysons,,,,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,n
+U Street,U St,African-Amer Civil War Mem'l/Cardozo,TRUE,,,,,Island,Greenbelt,Branch Ave,n
 Union Station,,,TRUE,,,,,,Island,Shady Grove,Glenmont,e
-Van Dorn Street,Van Dorn St,,,,,TRUE,,,Island,Franconia-Springfield,Largo,n
+Van Dorn Street,Van Dorn St,,,,TRUE,,,Island,Franconia-Springfield,Largo,n
 Van Ness-UDC,,,TRUE,,,,,,Island,Shady Grove,Glenmont,nw
 Vienna,,Fairfax-GMU,,,,,TRUE,,Terminus WB,Vienna,Vienna,n
 Virginia Square-GMU,,,,,,,TRUE,TRUE,Side,Ashburn/Vienna,Largo/New Carrollton,ne
-Washington National Airport,Ronald Reagan Washington National Airport,,,,TRUE,TRUE,,,Gap Island,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,w
-Waterfront,,,,TRUE,,,,,Island,Greenbelt,Branch Ave,n
-West Falls Church,,VT,,,,,TRUE,,Gap Island,Vienna,New Carrollton,n
+Washington Dulles International Airport,Dulles International Airport,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,n
+Washington National Airport,Ronald Reagan Washington National Airport,TRUE,TRUE,,,Gap Island,Franconia-Springfield/Huntington,Largo/Mt Vernon Sq,w
+Waterfront,,VT,,TRUE,,,,,Island,Greenbelt,Branch Ave,n
+West Falls Church,,,,,,,TRUE,,Gap Island,Vienna,New Carrollton,n
 West Hyattsville,,,,TRUE,,,,,Side,Greenbelt,Branch Ave,w
 Wheaton,,,TRUE,,,,,,Gap Island,Shady Grove,Glenmont,e
-Wiehle-Reston East,,,,,,,,TRUE,Island,Ashburn,Largo,n
+Wiehle-Reston East,,,,,,,,TRUE,Island,Ashburn,Largo/New Carrollton,n
 Woodley Park,,Zoo/Adams Morgan,TRUE,,,,,,Island,Shady Grove,Glenmont,nw

@@ -30,7 +30,7 @@ Note: I am not associated with WMATA.
 
 * Gallery Place: Changed exits to reflect new lettered designations, marked priority escalator for Exit D (elevator)
 
-*L’Enfant Plaza: Changed exits to reflect new lettered designations
+* L’Enfant Plaza: Changed exits to reflect new lettered designations
 
 * Silver Spring: Removed escalator that is normally for ingress
 

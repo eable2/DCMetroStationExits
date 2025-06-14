@@ -8,67 +8,67 @@ Anacostia,esc,1,71,ne,u,,,,2
 Archives,el,2,3,,,,,,
 Archives,esc,2,24,nw,u,,,,
 Arlington Cemetery,esc,2,45,ne,d,,,,
-Arlington Cemetery,el,2,46.5,,,,,,
+Arlington Cemetery,el,2,47,,,,,,
 Arlington Cemetery,esc,1,45,nw,d,,,,
-Arlington Cemetery,el,1,46.5,,,,,,
-Ashburn,esc,3,34.5,ne,u,,,,
-Ashburn,stair,1,35.5,ne,u,,,,
-Ashburn,stair,1,44.5,ne,u,TRUE,,,
-Ashburn,el,2,54.5,,,,,,
+Arlington Cemetery,el,1,47,,,,,,
+Ashburn,esc,3,35,ne,u,,,,
+Ashburn,stair,1,36,ne,u,,,,
+Ashburn,stair,1,45,ne,u,TRUE,,,
+Ashburn,el,2,55,,,,,,
 Ballston-MU,esc,2,47,ne,u,,,,
-Ballston-MU,esc,2,53.5,ne,u,TRUE,,,
+Ballston-MU,esc,2,54,ne,u,TRUE,,,
 Ballston-MU,el,2,70,,,,,,
 Ballston-MU,esc,1,47,ne,u,,,,
-Ballston-MU,esc,1,53.5,ne,u,TRUE,,,
+Ballston-MU,esc,1,54,ne,u,TRUE,,,
 Ballston-MU,el,1,70,,,,,,
 Benning Road,esc,2,55,ne,u,,,,
 Benning Road,el,2,66,,,,,,
 Bethesda,el,2,7,,,,,,
 Bethesda,stair,2,21,nw,u,TRUE,,,
-Bethesda,esc,2,29.5,nw,u,,,,
+Bethesda,esc,2,30,nw,u,,,,
 Braddock Road,esc,2,36,nw,d,,,,
-Braddock Road,el,2,47.5,,,,,,
+Braddock Road,el,2,48,,,,,,
 Branch Avenue,el,2,17,,,,,,
 Branch Avenue,stair,2,26,nw,u,TRUE,,,
-Branch Avenue,esc,2,35.5,nw,u,,,,
-Brookland-CUA,esc,2,42.5,ne,d,,,,
+Branch Avenue,esc,2,36,nw,u,,,,
+Brookland-CUA,esc,2,43,ne,d,,,,
 Brookland-CUA,el,2,57,,,,,,
-Capitol Heights,esc,2,50.5,ne,u,,,,
-Capitol Heights,el,2,62.5,,,,,,
+Capitol Heights,esc,2,51,ne,u,,,,
+Capitol Heights,el,2,63,,,,,,
 Capitol South,el,2,5,,,,,,
 Capitol South,stair,2,17,nw,u,TRUE,,,
 Capitol South,esc,2,26,nw,u,,,,
 Cheverly,el,2,25,,,,,,
-Cheverly,esc,2,34.5,ne,u,,,,
+Cheverly,esc,2,35,ne,u,,,,
 Cheverly,el,1,25,,,,,,
-Cheverly,esc,1,34.5,ne,u,,,,
-Clarendon,el,2,36.5,,,,,,
-Clarendon,esc,2,43.5,nw,u,,,,
-Clarendon,el,1,36.5,,,,,,
-Clarendon,esc,1,50.5,nw,u,,,,
+Cheverly,esc,1,35,ne,u,,,,
+Clarendon,el,2,37,,,,,,
+Clarendon,esc,2,44,nw,u,,,,
+Clarendon,el,1,37,,,,,,
+Clarendon,esc,1,51,nw,u,,,,
 Cleveland Park,el,2,5,,,,,,
 Cleveland Park,stair,1,14,nw,u,,,,
-Cleveland Park,esc,3,14.5,nw,u,,,,
+Cleveland Park,esc,3,15,nw,u,,,,
 College Park-U of Md,esc,3,20,nw,d,,,,
 College Park-U of Md,stair,1,20,nw,d,,,,
 College Park-U of Md,el,2,32,,,,,,
 College Park-U of Md,stair,1,41,ne,d,,,,
 Columbia Heights,el,2,8.5,,,,,,
 Columbia Heights,stair,2,14,nw,u,TRUE,,,
-Columbia Heights,esc,2,22.5,nw,u,,,,
-Congress Heights,esc,2,42.5,ne,u,,,,
+Columbia Heights,esc,2,23,nw,u,,,,
+Congress Heights,esc,2,43,ne,u,,,,
 Congress Heights,stair,2,51,ne,u,,,,
 Congress Heights,stair,2,59,ne,u,TRUE,,,
-Congress Heights,el,2,64.5,,,,,,
+Congress Heights,el,2,65,,,,,,
 Court House,esc,2,50,ne,u,,,,
 Court House,stair,2,59,ne,u,TRUE,,,
 Court House,el,2,66,,,,,,
-Crystal City,esc,2,24.5,ne,u,,,,
+Crystal City,esc,2,25,ne,u,,,,
 Crystal City,el,2,33,,,,,,
-Crystal City,esc,2,54.5,nw,u,,,,
-Crystal City,esc,1,24.5,ne,u,,,,
+Crystal City,esc,2,55,nw,u,,,,
+Crystal City,esc,1,25,ne,u,,,,
 Crystal City,el,1,33,,,,,,
-Crystal City,esc,1,54.5,nw,u,,,,
+Crystal City,esc,1,55,nw,u,,,,
 Deanwood,esc,2,25,nw,d,,,,
 Deanwood,el,2,45,,,,,,
 Downtown Largo,esc,1,23,nw,d,TRUE,,,
@@ -77,10 +77,6 @@ Downtown Largo,el,2,35,,,,38,,
 Downtown Largo,stair,3,49,ne,d,,,,
 Downtown Largo,esc,1,50,ne,d,,,,
 Downtown Largo,stair,3,57,ne,d,,,,
-Dulles International Airport,stair,2,21,ne,d,,,,
-Dulles International Airport,el,2,25.5,,,,26,,
-Dulles International Airport,el,2,31,,,,31.5,,
-Dulles International Airport,esc,2,51,ne,d,TRUE,,,
 Dunn Loring,exit,2,2,w,,,,,
 Dupont Circle,el,2,5,,,,,,1
 Dupont Circle,esc,2,21,nw,u,,,1,1
@@ -103,13 +99,13 @@ Farragut North,esc,2,38,ne,u,,,,1
 Farragut North,el,2,47,,,,,3,1
 Farragut West,el,2,5,,,,,,1
 Farragut West,esc,2,19,nw,u,,,1,1
-Farragut West,esc,2,49.5,ne,u,,,2,
+Farragut West,esc,2,50,ne,u,,,2,
 Farragut West,el,1,5,,,,,,2
 Farragut West,esc,1,19,nw,u,,,1,2
-Farragut West,esc,1,49.5,ne,u,,,2,
+Farragut West,esc,1,50,ne,u,,,2,
 Federal Center SW,esc,2,25,ne,u,,,,
 Federal Center SW,el,2,45,,,,,,
-Federal Triangle,esc,3,24.5,ne,u,,,,
+Federal Triangle,esc,3,25,ne,u,,,,
 Federal Triangle,el,2,35,,,,,,
 Federal Triangle,esc,2,49,nw,u,,,,
 Foggy Bottom-GWU,el,2,13,,,,,,
@@ -125,50 +121,50 @@ Fort Totten (Upper Level),esc,2,47,ne,d,,,,
 Franconia-Springfield,el,2,19,,,,,,
 Franconia-Springfield,esc,2,31,nw,u,TRUE,,,
 Franconia-Springfield,stair,1,38,nw,u,,,,
-Franconia-Springfield,esc,3,38.5,nw,u,,,,
+Franconia-Springfield,esc,3,39,nw,u,,,,
 Friendship Heights,el,3,10,,,,,,1
-Friendship Heights,esc,1,14.5,nw,u,TRUE,,,1
-Friendship Heights,esc,2,22.5,nw,u,,,1,1
-Friendship Heights,esc,2,50.5,ne,u,,,2,2
-Friendship Heights,stair,1,57.5,ne,u,TRUE,,,2
+Friendship Heights,esc,1,15,nw,u,TRUE,,,1
+Friendship Heights,esc,2,23,nw,u,,,1,1
+Friendship Heights,esc,2,51,ne,u,,,2,2
+Friendship Heights,stair,1,58,ne,u,TRUE,,,2
 Friendship Heights,el,3,60,,,,,,2
 Gallery Place (Lower Level),esc,2,13,nw,u,TRUE,,3,1
 Gallery Place (Lower Level),esc,1,17,ne,u,,,,1
-Gallery Place (Lower Level),stair,3,17.5,ne,u,,,,1
+Gallery Place (Lower Level),stair,3,18,ne,u,,,,1
 Gallery Place (Lower Level),el,2,24,,,,,4,1
 Gallery Place (Lower Level),esc,2,33,nw,u,TRUE,,1,1
 Gallery Place (Lower Level),esc,2,41,ne,u,TRUE,,2,2
 Gallery Place (Lower Level),esc,3,57,nw,u,,,,2
 Gallery Place (Lower Level),el,1,58,,,,,5,2
-Gallery Place (Lower Level),stair,1,66.5,nw,u,,,,2
+Gallery Place (Lower Level),stair,1,67,nw,u,,,,2
 Gallery Place (Lower Level),esc,3,67,nw,u,,,,2
-Gallery Place (Upper Level),esc,2,20.5,nw,u,,,1,
-Gallery Place (Upper Level),exit,2,64.5,n,,,66.5,2,1
+Gallery Place (Upper Level),esc,2,21,nw,u,,,1,
+Gallery Place (Upper Level),exit,2,65,n,,,67,2,1
 Gallery Place (Upper Level),exit,2,69,n,,,70,,1
-Gallery Place (Upper Level),esc,1,20.5,nw,u,,,1,
-Gallery Place (Upper Level),exit,1,64.5,s,,,66.5,3,2
+Gallery Place (Upper Level),esc,1,21,nw,u,,,1,
+Gallery Place (Upper Level),exit,1,65,s,,,67,3,2
 Gallery Place (Upper Level),exit,1,69,s,,,70,,2
-Georgia Avenue-Petworth,esc,2,50.5,ne,u,,,,
+Georgia Avenue-Petworth,esc,2,51,ne,u,,,,
 Georgia Avenue-Petworth,stair,2,59,ne,u,TRUE,,,
-Georgia Avenue-Petworth,el,2,64.5,,,,,,
+Georgia Avenue-Petworth,el,2,65,,,,,,
 Glenmont,esc,2,30,ne,u,,,,
 Glenmont,el,2,46,,,,,,
 Glenmont,stair,2,54,nw,u,,,,
-Greenbelt,stair,1,25.5,nw,d,,,,
-Greenbelt,el,2,35.5,,,,,,
-Greenbelt,esc,3,47.5,ne,d,,,,
-Greenbelt,stair,1,47.5,ne,d,,,,
+Greenbelt,stair,1,26,nw,d,,,,
+Greenbelt,el,2,36,,,,,,
+Greenbelt,esc,3,48,ne,d,,,,
+Greenbelt,stair,1,48,ne,d,,,,
 Greensboro,esc,1,35,ne,u,,,,
-Greensboro,stair,3,36.5,ne,u,,,,
-Greensboro,stair,3,44.5,ne,u,TRUE,,,
-Greensboro,el,2,56.5,,,,,,
+Greensboro,stair,3,37,ne,u,,,,
+Greensboro,stair,3,45,ne,u,TRUE,,,
+Greensboro,el,2,57,,,,,,
 Grosvenor-Strathmore,esc,2,49,ne,u,,,,
 Grosvenor-Strathmore,el,2,71,,,,,,
-Herndon,esc,3,30.5,ne,u,,,,
-Herndon,stair,1,31.5,ne,u,,,,
-Herndon,stair,1,38.5,ne,u,TRUE,,,
-Herndon,el,2,50.5,,,,,,
-Huntington,esc,2,18.5,ne,d,TRUE,,1,1
+Herndon,esc,3,31,ne,u,,,,
+Herndon,stair,1,32,ne,u,,,,
+Herndon,stair,1,39,ne,u,TRUE,,,
+Herndon,el,2,51,,,,,,
+Huntington,esc,2,19,ne,d,TRUE,,1,1
 Huntington,stair,3,26,ne,d,,,,1
 Huntington,el,1,26,,,,,,1
 Huntington,el,3,71,,,,,2,2
@@ -176,107 +172,107 @@ Huntington,esc,1,71,ne,d,,,,2
 Hyattsville Crossing,el,2,12,,,,,,
 Hyattsville Crossing,stair,2,23,nw,u,TRUE,,,
 Hyattsville Crossing,stair,2,32,nw,u,,,,
-Hyattsville Crossing,esc,2,32.5,nw,u,,,,
+Hyattsville Crossing,esc,2,33,nw,u,,,,
 Hyattsville Crossing,el,1,12,,,,,,
 Hyattsville Crossing,stair,1,23,nw,u,TRUE,,,
 Hyattsville Crossing,stair,1,32,nw,u,,,,
-Hyattsville Crossing,esc,1,32.5,nw,u,,,,
-Innovation Center,el,2,10.5,,,,,,
+Hyattsville Crossing,esc,1,33,nw,u,,,,
+Innovation Center,el,2,11,,,,,,
 Innovation Center,stair,3,21,nw,u,TRUE,,,
-Innovation Center,stair,3,29.5,nw,u,,,,
-Innovation Center,esc,1,30.5,nw,u,,,,
+Innovation Center,stair,3,30,nw,u,,,,
+Innovation Center,esc,1,31,nw,u,,,,
 Judiciary Square,el,2,3.5,,,,,,1
-Judiciary Square,esc,2,19.5,nw,u,,,1,1
-Judiciary Square,esc,2,53.5,ne,u,,,2,
+Judiciary Square,esc,2,20,nw,u,,,1,1
+Judiciary Square,esc,2,54,ne,u,,,2,
 Judiciary Square,el,1,3.5,,,,,,2
-Judiciary Square,esc,1,19.5,nw,u,,,1,2
-Judiciary Square,esc,1,53.5,ne,u,,,2,
+Judiciary Square,esc,1,20,nw,u,,,1,2
+Judiciary Square,esc,1,54,ne,u,,,2,
 King Street-Old Town,stair,3,2,ne,d,,,1,1
 King Street-Old Town,el,1,2,,,,,,1
-King Street-Old Town,stair,2,29.5,nw,d,,,2,2
-King Street-Old Town,el,2,35.5,,,,,,2
-King Street-Old Town,esc,2,38.5,ne,d,,,3,2
-L'Enfant Plaza (Lower Level),esc,2,17.5,nw,u,,,5,1
+King Street-Old Town,stair,2,30,nw,d,,,2,2
+King Street-Old Town,el,2,36,,,,,,2
+King Street-Old Town,esc,2,39,ne,d,,,3,2
+L'Enfant Plaza (Lower Level),esc,2,18,nw,u,,,5,1
 L'Enfant Plaza (Lower Level),el,3,23,,,,,1,1
-L'Enfant Plaza (Lower Level),esc,2,37.5,nw,u,,,2,1
-L'Enfant Plaza (Lower Level),esc,2,47.5,ne,u,,,3,2
-L'Enfant Plaza (Lower Level),esc,2,57.5,ne,u,,,4,2
+L'Enfant Plaza (Lower Level),esc,2,38,nw,u,,,2,1
+L'Enfant Plaza (Lower Level),esc,2,48,ne,u,,,3,2
+L'Enfant Plaza (Lower Level),esc,2,58,ne,u,,,4,2
 L'Enfant Plaza (Upper Level),el,2,2,,,,,1,
 L'Enfant Plaza (Upper Level),esc,2,20,nw,u,TRUE,,3,1
 L'Enfant Plaza (Upper Level),esc,2,27,nw,u,,,,1
-L'Enfant Plaza (Upper Level),exit,2,45.5,n,,,46.5,4,2
-L'Enfant Plaza (Upper Level),exit,2,50.5,n,,,51.5,,2
+L'Enfant Plaza (Upper Level),exit,2,46,n,,,47,4,2
+L'Enfant Plaza (Upper Level),exit,2,51,n,,,52,,2
 L'Enfant Plaza (Upper Level),esc,2,56,ne,u,,,2,
 L'Enfant Plaza (Upper Level),el,1,2,,,,,1,
 L'Enfant Plaza (Upper Level),esc,1,20,nw,u,TRUE,,3,3
 L'Enfant Plaza (Upper Level),esc,1,27,nw,u,,,,3
-L'Enfant Plaza (Upper Level),exit,1,45.5,s,,,46.5,5,4
-L'Enfant Plaza (Upper Level),exit,1,50.5,s,,,51.5,,4
+L'Enfant Plaza (Upper Level),exit,1,46,s,,,47,5,4
+L'Enfant Plaza (Upper Level),exit,1,51,s,,,52,,4
 L'Enfant Plaza (Upper Level),esc,1,56,ne,u,,,2,
 Landover,el,2,30,,,,,,
 Landover,esc,2,47,ne,d,,,,
-Loudoun Gateway,el,2,22.5,,,,,,
+Loudoun Gateway,el,2,23,,,,,,
 Loudoun Gateway,stair,1,33,nw,u,TRUE,,,
-Loudoun Gateway,stair,1,41.5,nw,u,,,,
-Loudoun Gateway,esc,3,42.5,nw,u,,,,
-McLean,esc,3,31.5,nw,d,,,,
-McLean,stair,1,31.5,nw,d,,,,
-McLean,stair,1,39.5,nw,d,TRUE,,,
-McLean,el,2,54.5,,,,,,
-McPherson Square,esc,2,19.5,nw,u,,,1,
-McPherson Square,esc,2,55.5,ne,u,,,2,1
+Loudoun Gateway,stair,1,42,nw,u,,,,
+Loudoun Gateway,esc,3,43,nw,u,,,,
+McLean,esc,3,32,nw,d,,,,
+McLean,stair,1,32,nw,d,,,,
+McLean,stair,1,40,nw,d,TRUE,,,
+McLean,el,2,55,,,,,,
+McPherson Square,esc,2,20,nw,u,,,1,
+McPherson Square,esc,2,56,ne,u,,,2,1
 McPherson Square,el,2,71,,,,,,1
-McPherson Square,esc,1,19.5,nw,u,,,1,
-McPherson Square,esc,1,55.5,ne,u,,,2,2
+McPherson Square,esc,1,20,nw,u,,,1,
+McPherson Square,esc,1,56,ne,u,,,2,2
 McPherson Square,el,1,71,,,,,,2
 Medical Center,el,2,6,,,,,,
 Medical Center,stair,2,13,nw,u,TRUE,,,
-Medical Center,esc,2,21.5,nw,u,,,,
+Medical Center,esc,2,22,nw,u,,,,
 Metro Center (Lower Level),stair,2,7.5,ne,u,,,5,1
 Metro Center (Lower Level),el,2,15,,,,,3,1
-Metro Center (Lower Level),esc,2,22.5,nw,u,,,1,1
-Metro Center (Lower Level),esc,2,32.5,ne,u,,,2,2
+Metro Center (Lower Level),esc,2,23,nw,u,,,1,1
+Metro Center (Lower Level),esc,2,33,ne,u,,,2,2
 Metro Center (Lower Level),el,2,42,,,,,4,2
-Metro Center (Lower Level),stair,2,53.5,ne,u,,,6,2
-Metro Center (Upper Level),esc,2,19.5,nw,u,,,1,
+Metro Center (Lower Level),stair,2,54,ne,u,,,6,2
+Metro Center (Upper Level),esc,2,20,nw,u,,,1,
 Metro Center (Upper Level),exit,2,33,n,,,35,3,1
 Metro Center (Upper Level),exit,2,38,n,,,40,,1
-Metro Center (Upper Level),esc,2,53.5,ne,u,,,2,
-Metro Center (Upper Level),esc,1,19.5,nw,u,,,1,
+Metro Center (Upper Level),esc,2,54,ne,u,,,2,
+Metro Center (Upper Level),esc,1,20,nw,u,,,1,
 Metro Center (Upper Level),exit,1,33,s,,,35,4,2
 Metro Center (Upper Level),exit,1,38,s,,,40,,2
-Metro Center (Upper Level),esc,1,53.5,ne,u,,,2,
+Metro Center (Upper Level),esc,1,54,ne,u,,,2,
 Minnesota Avenue,el,2,21,,,,,,
-Minnesota Avenue,esc,2,42.5,ne,d,,,,
+Minnesota Avenue,esc,2,43,ne,d,,,,
 Morgan Boulevard,stair,1,21,nw,u,TRUE,,,
 Morgan Boulevard,stair,1,30,nw,u,,,,
 Morgan Boulevard,esc,3,31,nw,u,,,,
 Morgan Boulevard,el,2,35,,,,,,
 Morgan Boulevard,stair,1,47,nw,u,,,,
 Morgan Boulevard,esc,3,48,nw,u,,,,
-Mount Vernon Square,esc,1,37.5,ne,u,,,,
-Mount Vernon Square,stair,3,38.5,ne,u,,,,
-Mount Vernon Square,el,2,45.5,,,,,,
+Mount Vernon Square,esc,1,38,ne,u,,,,
+Mount Vernon Square,stair,3,39,ne,u,,,,
+Mount Vernon Square,el,2,46,,,,,,
 Mount Vernon Square,esc,2,50,ne,u,,,,
 Mount Vernon Square,stair,2,58,ne,u,TRUE,,,
 Mount Vernon Square,el,2,71,,,,,,
 Navy Yard-Ballpark,stair,2,8.5,nw,u,TRUE,,1,1
-Navy Yard-Ballpark,el,2,12.5,,,,,,1
+Navy Yard-Ballpark,el,2,13,,,,,,1
 Navy Yard-Ballpark,esc,2,21,nw,u,,,,1
 Navy Yard-Ballpark,esc,1,56,ne,u,,,2,2
 Navy Yard-Ballpark,stair,3,57,ne,u,,,,2
 Navy Yard-Ballpark,el,2,63,,,,,,2
-Naylor Road,stair,1,13.5,nw,d,,,,
+Naylor Road,stair,1,14,nw,d,,,,
 Naylor Road,el,2,27,,,,,,
-Naylor Road,stair,3,41.5,ne,d,,,,
-Naylor Road,esc,1,41.5,ne,d,,,,
-New Carrollton,esc,2,22.5,nw,d,,,,
+Naylor Road,stair,3,42,ne,d,,,,
+Naylor Road,esc,1,42,ne,d,,,,
+New Carrollton,esc,2,23,nw,d,,,,
 New Carrollton,el,3,37,,,,,,
-New Carrollton,stair,1,41.5,ne,d,,,,
+New Carrollton,stair,1,42,ne,d,,,,
 NoMa-Gallaudet U,esc,3,8.5,nw,d,TRUE,,1,1
 NoMa-Gallaudet U,stair,1,8.5,nw,d,TRUE,,,1
 NoMa-Gallaudet U,stair,1,31,ne,d,,,,1
-NoMa-Gallaudet U,el,2,35,,,,36.5,,1
+NoMa-Gallaudet U,el,2,35,,,,37,,1
 NoMa-Gallaudet U,esc,3,40,nw,d,,,,1
 NoMa-Gallaudet U,stair,1,40,nw,d,,,,1
 NoMa-Gallaudet U,stair,1,54,nw,d,TRUE,,2,1
@@ -290,9 +286,9 @@ Pentagon,el,1,2,,,,,,
 Pentagon,esc,1,8,ne,u,,,,
 Pentagon,esc,1,46,nw,u,,,,
 Pentagon City,el,2,5,,,,,,
-Pentagon City,esc,2,26.5,nw,u,,,,
+Pentagon City,esc,2,27,nw,u,,,,
 Pentagon City,el,1,5,,,,,,
-Pentagon City,esc,1,26.5,nw,u,,,,
+Pentagon City,esc,1,27,nw,u,,,,
 Potomac Avenue,esc,2,38,ne,u,,,,
 Potomac Avenue,el,3,58,,,,,,
 Potomac Avenue,esc,1,61,nw,u,,,,
@@ -300,100 +296,103 @@ Potomac Yard,el,2,2,,,,,,
 Potomac Yard,exit,2,11,n,,,,,
 Potomac Yard,el,1,2,,,,,,
 Potomac Yard,exit,1,11,s,,,,,
-Reston Town Center,el,2,22.5,,,,,,
+Reston Town Center,el,2,23,,,,,,
 Reston Town Center,stair,3,33,nw,u,TRUE,,,
-Reston Town Center,stair,3,41.5,nw,u,,,,
-Reston Town Center,esc,1,42.5,nw,u,,,,
-Rhode Island Avenue,esc,2,30.5,ne,d,TRUE,,,
-Rhode Island Avenue,el,1,34.5,,,,,,
-Rhode Island Avenue,esc,3,35.5,ne,d,,,,
+Reston Town Center,stair,3,42,nw,u,,,,
+Reston Town Center,esc,1,43,nw,u,,,,
+Rhode Island Avenue,esc,2,31,ne,d,TRUE,,,
+Rhode Island Avenue,el,1,35,,,,,,
+Rhode Island Avenue,esc,3,36,ne,d,,,,
 Rockville,el,2,28,,,,,,
 Rockville,esc,2,40,ne,d,,,,
 Rosslyn,esc,2,17,ne,u,,,,
-Rosslyn,el,2,35.5,,,,,,
+Rosslyn,el,2,36,,,,,,
 Rosslyn,esc,2,54,nw,u,,,,
-Rosslyn,esc,1,30.5,ne,d,,,1,1
+Rosslyn,esc,1,31,ne,d,,,1,1
 Rosslyn,exit,1,36,n,,,37,,1
-Rosslyn,el,1,37.5,n,,,,,1
+Rosslyn,el,1,38,n,,,,,1
 Rosslyn,exit,1,38,n,,,39,,1
-Rosslyn,esc,1,40.5,nw,d,,,,1
-Shady Grove,stair,2,17.5,nw,d,,,,
+Rosslyn,esc,1,41,nw,d,,,,1
+Shady Grove,stair,2,18,nw,d,,,,
 Shady Grove,el,2,28,,,,,,
-Shady Grove,stair,3,36.5,ne,d,,,,
-Shady Grove,esc,1,36.5,ne,d,,,,
+Shady Grove,stair,3,37,ne,d,,,,
+Shady Grove,esc,1,37,ne,d,,,,
 Shaw-Howard U,el,2,9.5,,,,,1,1
-Shaw-Howard U,esc,2,21.5,nw,u,,,,1
-Shaw-Howard U,esc,2,55.5,ne,u,,,2,
+Shaw-Howard U,esc,2,22,nw,u,,,,1
+Shaw-Howard U,esc,2,56,ne,u,,,2,
 Silver Spring,esc,2,29,nw,d,,,1,1
 Silver Spring,el,2,44,,,,,,1
-Silver Spring,esc,2,48,ne,d,,,,1
 Silver Spring,esc,2,59,,d,,,2,
 Smithsonian,esc,2,28,nw,u,,,1,
-Smithsonian,esc,2,53.5,ne,u,,,2,1
+Smithsonian,esc,2,54,ne,u,,,2,1
 Smithsonian,el,2,68,,,,,,1
 Smithsonian,esc,1,28,nw,u,,,1,
-Smithsonian,esc,1,53.5,ne,u,,,2,2
+Smithsonian,esc,1,54,ne,u,,,2,2
 Smithsonian,el,1,68,,,,,,2
 Southern Avenue,el,2,21,,,,,,
-Southern Avenue,stair,2,29.5,nw,u,TRUE,,,
+Southern Avenue,stair,2,30,nw,u,TRUE,,,
 Southern Avenue,esc,2,39,nw,u,,,,
-Spring Hill,esc,3,23.5,nw,d,,,,
-Spring Hill,stair,1,23.5,nw,d,,,,
+Spring Hill,esc,3,24,nw,d,,,,
+Spring Hill,stair,1,24,nw,d,,,,
 Spring Hill,el,2,36,,,,,,
-Spring Hill,stair,1,39.5,nw,d,TRUE,,,
+Spring Hill,stair,1,40,nw,d,TRUE,,,
 Stadium-Armory,el,2,5.5,,,,,1,1
-Stadium-Armory,esc,2,14.5,nw,u,,,,1
+Stadium-Armory,esc,2,15,nw,u,,,,1
 Stadium-Armory,esc,2,71,ne,u,,,2,
 Suitland,esc,2,34,ne,u,,,,
 Suitland,stair,2,44,ne,u,TRUE,,,
-Suitland,el,2,52.5,,,,,,
+Suitland,el,2,53,,,,,,
 Takoma,esc,2,1,ne,d,,,,
 Takoma,el,2,27,,,,,,
-Tenleytown-AU,esc,2,28.5,ne,u,,,,
-Tenleytown-AU,el,2,70.5,,,,,,
+Tenleytown-AU,esc,2,29,ne,u,,,,
+Tenleytown-AU,el,2,71,,,,,,
 Twinbrook,stair,1,51,nw,d,,,,
 Twinbrook,el,2,62,,,,,,
-Tysons,el,2,15.5,,,,,,
+Tysons,el,2,16,,,,,,
 Tysons,stair,3,25,ne,u,TRUE,,,
 Tysons,stair,3,33,ne,u,,,,
 Tysons,esc,1,34,,u,,,,
 U Street,el,2,5,,,,,1,1
-U Street,esc,2,17.5,nw,u,,,,1
-U Street,esc,2,59.5,ne,u,,,2,
+U Street,esc,2,18,nw,u,,,,1
+U Street,esc,2,60,ne,u,,,2,
 Union Station,esc,3,17,ne,u,,,1,1
 Union Station,stair,1,18,ne,u,,,,1
 Union Station,esc,2,38,nw,u,,,,1
 Union Station,el,3,71,,,,,2,2
 Union Station,esc,1,71,ne,u,,,,2
-Van Dorn Street,stair,3,26.5,nw,d,,,,
-Van Dorn Street,esc,1,26.5,nw,d,,,,
-Van Dorn Street,el,2,37.5,,,,,,
-Van Dorn Street,stair,3,46.5,ne,d,,,,
+Van Dorn Street,stair,3,27,nw,d,,,,
+Van Dorn Street,esc,1,27,nw,d,,,,
+Van Dorn Street,el,2,38,,,,,,
+Van Dorn Street,stair,3,47,ne,d,,,,
 Van Ness-UDC,el,2,5,,,,,,
-Van Ness-UDC,esc,2,14.5,nw,u,,,,
+Van Ness-UDC,esc,2,15,nw,u,,,,
 Vienna,stair,1,45,ne,u,,,,
-Vienna,esc,3,45.5,ne,u,,,,
+Vienna,esc,3,46,ne,u,,,,
 Vienna,el,1,52,,,,,,
 Vienna,esc,2,57,ne,u,TRUE,,,
 Virginia Square-GMU,el,2,25,,,,,,
-Virginia Square-GMU,esc,2,37.5,nw,u,,,,
+Virginia Square-GMU,esc,2,38,nw,u,,,,
 Virginia Square-GMU,el,1,25,,,,,,
-Virginia Square-GMU,esc,1,37.5,nw,u,,,,
+Virginia Square-GMU,esc,1,38,nw,u,,,,
+Washington Dulles International Airport,stair,2,21,ne,d,,,,
+Washington Dulles International Airport,el,2,26,,,,26,,
+Washington Dulles International Airport,el,2,31,,,,32,,
+Washington Dulles International Airport,esc,2,51,ne,d,TRUE,,,
 Washington National Airport,esc,2,2,ne,d,,,1,
 Washington National Airport,el,2,39,,,,,,
 Washington National Airport,esc,2,71,nw,d,,,2,
 Washington National Airport,esc,1,2,ne,d,,,1,
 Washington National Airport,el,1,39,,,,,,
 Washington National Airport,esc,1,71,nw,d,,,2,
-Waterfront,esc,2,25.5,ne,u,,,,
+Waterfront,esc,2,26,ne,u,,,,
 Waterfront,el,3,45,,,,,,
 Waterfront,stair,1,47,nw,u,,,,
 West Falls Church,stair,2,15,ne,u,,,,
 West Falls Church,el,2,34,,,,,,
-West Falls Church,esc,2,41.5,nw,u,TRUE,,,
+West Falls Church,esc,2,42,nw,u,TRUE,,,
 West Falls Church,stair,2,15,ne,u,,,,
 West Falls Church,el,2,34,,,,,,
-West Falls Church,esc,2,41.5,nw,u,TRUE,,,
+West Falls Church,esc,2,42,nw,u,TRUE,,,
 West Hyattsville,exit,2,23,n,,,,,
 West Hyattsville,exit,1,23,s,,,,,
 Wheaton,exit,2,40,s,,,43,1,
@@ -402,6 +401,6 @@ Wheaton,el,2,71,,,,,,
 Wiehle-Reston East,esc,1,31,ne,u,,,,
 Wiehle-Reston East,stair,3,32,ne,u,,,,
 Wiehle-Reston East,stair,3,40,ne,u,TRUE,,,
-Wiehle-Reston East,el,2,49.5,,,,,,
-Woodley Park,esc,2,26.5,ne,u,,,,
+Wiehle-Reston East,el,2,50,,,,,,
+Woodley Park,esc,2,27,ne,u,,,,
 Woodley Park,el,2,36,,,,,,

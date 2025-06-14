@@ -10,14 +10,14 @@ Farragut West,1,18th & I
 Farragut West,2,17th & I
 Friendship Heights,1,Western Ave
 Friendship Heights,2,Jenifer St
-Gallery Place (Lower Level),1,"RD Trains to Shady Grove, 7th & F, 9th & G"
-Gallery Place (Lower Level),2,"RD Trains to Glenmont, 7th & F, 9th & G"
-Gallery Place (Lower Level),3,7th & H
+Gallery Place (Lower Level),1,"RD Trains to Shady Grove, Exits A, B"
+Gallery Place (Lower Level),2,"RD Trains to Glenmont, Exits A, B"
+Gallery Place (Lower Level),3,Exit C
 Gallery Place (Lower Level),4,Elevator to Platform Only
-Gallery Place (Lower Level),5,Elevator to Platform & Street
-Gallery Place (Upper Level),1,9th & G
-Gallery Place (Upper Level),2,"All GR/YL Trains, 7th & F, 7th & H, Elevator to Platform Only"
-Gallery Place (Upper Level),3,"All GR/YL Trains, 7th & F, 7th & H, Elevator to Platform & Street"
+Gallery Place (Lower Level),5,Elevator to Platform & Exit D
+Gallery Place (Upper Level),1,Exit B
+Gallery Place (Upper Level),2,"All GR/YL Trains, Exits A, C, D, Elevator to Platform Only"
+Gallery Place (Upper Level),3,"All GR/YL Trains, Exits A, C, D, Elevator to Platform & Exit D"
 Huntington,1,Huntington Ave
 Huntington,2,Kings Highway
 Judiciary Square,1,F St
@@ -26,15 +26,15 @@ King Street-Old Town,1,Commonwealth Ave
 King Street-Old Town,2,King St
 King Street-Old Town,3,Buses
 L’Enfant Plaza (Lower Level),1,Elevator to All Destinations
-L’Enfant Plaza (Lower Level),2,"GR/YL Trains to Branch Ave/Huntington, 7th & Maryland Ave"
-L’Enfant Plaza (Lower Level),3,"GR/YL Trains to Greenbelt/Mt Vernon Sq, 7th & Maryland Ave"
-L’Enfant Plaza (Lower Level),4,7th & D
-L’Enfant Plaza (Lower Level),5,9th & D
+L’Enfant Plaza (Lower Level),2,"GR/YL Trains to Branch Ave/Huntington, Exit A"
+L’Enfant Plaza (Lower Level),3,"GR/YL Trains to Greenbelt/Mt Vernon Sq, Exit A"
+L’Enfant Plaza (Lower Level),4,Exit B
+L’Enfant Plaza (Lower Level),5,Exit C
 L’Enfant Plaza (Upper Level),1,Opposite Platform & Street
 L’Enfant Plaza (Upper Level),2,Opposite Platform
-L’Enfant Plaza (Upper Level),3,7th & Maryland Ave
-L’Enfant Plaza (Upper Level),4,"All BL/OR/SV Trains, 7th & D, No Elevator"
-L’Enfant Plaza (Upper Level),5,"All BL/OR/SV Trains, 9th & D, Elevator to Platform Only"
+L’Enfant Plaza (Upper Level),3,Exit A
+L’Enfant Plaza (Upper Level),4,"All BL/OR/SV Trains, Exit B, No Elevator"
+L’Enfant Plaza (Upper Level),5,"All BL/OR/SV Trains, Exit C, Elevator to Platform Only"
 McPherson Square,1,Vermont Ave
 McPherson Square,2,14th & I
 Metro Center (Lower Level),1,"RD Trains to Shady Grove, 11th & G, 13th & G"

@@ -16,22 +16,22 @@ Let me know if you have ideas on how to improve the dataset!
 
 Note: I am not associated with WMATA.
 
-#Changelog June 14, 2025
+# Changelog June 14, 2025
 
-*Introductory pages: several minor updates, including adding Github link
+* Introductory pages: several minor updates, including adding Github link
 
-*All diagrams: Added compass icons to the top right. They point in the approximate direction of north, to the nearest 45 degree angle. The direction is based on the actual orientation of the station platform, and may differ from the orientation of the station on the official Metro map.
+* All diagrams: Added compass icons to the top right. They point in the approximate direction of north, to the nearest 45 degree angle. The direction is based on the actual orientation of the station platform, and may differ from the orientation of the station on the official Metro map.
 
-*Ashburn Branch: Added New Carrollton terminal to 10 stations
+* Ashburn Branch: Added New Carrollton terminal to 10 stations
 
-*New Carrollton branch: Added SV to 5 stations and Ashburn terminal to 4 stations
+* New Carrollton branch: Added SV to 5 stations and Ashburn terminal to 4 stations
 
-*Brookland-CUA: Reversed escalator direction
+* Brookland-CUA: Reversed escalator direction
 
-*Gallery Place: Changed exits to reflect new lettered designations, marked priority escalator for Exit D (elevator)
+* Gallery Place: Changed exits to reflect new lettered designations, marked priority escalator for Exit D (elevator)
 
 *L’Enfant Plaza: Changed exits to reflect new lettered designations
 
-*Silver Spring: Removed escalator that is normally for ingress
+* Silver Spring: Removed escalator that is normally for ingress
 
-*Washington Dulles International Airport: Added Washington to the name
+* Washington Dulles International Airport: Added Washington to the name
